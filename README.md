@@ -2,7 +2,7 @@
 
 I'm undergraduate student in computer science.I'm passionate junior web developer who's looking for new opportunities! 
 
-Skills: VUE JS / JS / HTML / CSS / JAVA / PYTHON
+Skills: JAVA / JS / VUEJS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently looking for a job ( JAVA, JS )
 - 🌱 I’m currently learning Dart and improving Python 
