@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Thazin Htun
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm passionate junior web developer who's looking for new opportunities!
 
